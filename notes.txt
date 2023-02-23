@@ -13,3 +13,11 @@ o/p:
 Installing Flask
 (hello-flask) C:\Users\Krish\Desktop\Flask\Hello-Flask>pip install flask
 
+Download and Install SQlite3
+
+python init_db.py
+
+sqlite3 database.db
+.tables
+.exit
+
