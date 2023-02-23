@@ -1,0 +1,15 @@
+Installing virtual environment
+pip install virtualenv
+
+Creating the virtual environment
+C:\Users\Krish\Desktop\Flask\Hello-Flask>virtualenv hello-flask
+
+Activating the virtual environment
+C:\Users\Krish\Desktop\Flask\Hello-Flask>hello-flask\Scripts\activate
+
+o/p:
+(hello-flask) C:\Users\Krish\Desktop\Flask\Hello-Flask>
+
+Installing Flask
+(hello-flask) C:\Users\Krish\Desktop\Flask\Hello-Flask>pip install flask
+
